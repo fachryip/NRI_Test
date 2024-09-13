@@ -1,0 +1,13 @@
+{
+  "cars":
+  [
+    {
+      "name": "Hatchback",
+      "description": "A hatchback is a car with a hatch-type rear door that opens upwards and often a shared volume for the passenger and cargo areas. The first production hatchback was released by Citroen in 1938. The Citroën 11CV Commerciale."
+    },
+    {
+      "name": "Sedan",
+      "description": "A sedan, or saloon, is a passenger car in a three-box configuration with separate compartments for engine, passenger, and cargo."
+    }
+  ]
+}
